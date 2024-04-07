@@ -213,4 +213,12 @@ body{
     #hero-below {
         display: block;
     }
+
+    .section h2{
+        text-align: center;
+    }
+
+    .section p{
+        text-align: center;
+    }
 }
