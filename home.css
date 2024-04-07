@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: inter;
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+#nav-bar .navbar{
+    background-color: #6B3CC9;
+    padding: 0;
+}
+
+#nav-bar .navbar .navbar-brand{
+    padding: 15px;
+}
+
+#nav-bar .navbar .navbar-toggler-icon{
+    color: #fff !important;
+}
+
+#nav-bar .navbar .navbar-nav li{
+    padding: 0 10px;
+}
+
+#nav-bar .navbar .navbar-nav li a{
+    color: #fff !important;
+    font-family: inter;
+    font-weight: 600px;
+}
