@@ -122,3 +122,30 @@ body{
     color: #fff;
     margin-top: 20px;
 }
+
+.section ul{
+    margin-top: 10px;
+}
+
+.section ul li{
+    padding: 24px;
+    gap: 13px;
+    border: none;
+    border-radius: 7px;
+    background-color: #FAF8FF;
+    color: #000000;
+    font-family: inter;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.section .badge{
+    cursor: pointer;
+}
+
+.section .description{
+    color: #6F6C90;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 10px;
+}
