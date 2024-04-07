@@ -149,3 +149,36 @@ body{
     line-height: 30px;
     margin-top: 10px;
 }
+
+#footer{
+    width: 100%;
+    background-color: #6B3CC9;
+    color: #fff;
+    margin-top: 6%;
+}
+
+#footer .content{
+    padding: 25px;
+
+}
+
+#footer img{
+    padding-bottom: 20px;
+}
+
+#footer .header{
+    font-size: 21px;
+    font-weight: 600;
+}
+
+#footer p{
+    font-size: 16px;
+}
+
+#footer hr{
+    background-color: #fff;
+}
+
+#footer .copyright{
+    padding-bottom: 20px;
+}
